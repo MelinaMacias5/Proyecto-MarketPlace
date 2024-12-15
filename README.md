@@ -1,5 +1,3 @@
-# Proyecto-MarketPlace
-# proyecto-marketplace
 
 ## Project setup
 ```
